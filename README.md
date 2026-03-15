@@ -11,13 +11,13 @@
 
 ---
 
-## 📬 About Me
+## About Me
 
 My work focuses on production-grade LLM and agent systems — especially where real customer problems, messy workflows, and decision-making meet.
 
 ---
 
-## 🔧 What I'm Building
+## What I'm Building
 
 - **[Epic Stoicism](https://epicstoicism.com/)** — An AI-powered reading productivity app that turns books, highlights, and notes into a living knowledge base
 
@@ -25,13 +25,16 @@ My work focuses on production-grade LLM and agent systems — especially where r
 
 ---
 
-## 📊 Stats
+## Github Stats
 
-<p align="center"><a href="https://github.com/Ming0217"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Ming0217&show_icons=true&hide_border=true&count_private=true&bg_color=0a192f&title_color=38bdf8&text_color=e2e8f0&icon_color=0ea5e9&border_radius=10" alt="GitHub Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Ming0217"><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ming0217&hide_border=true&background=0a192f&stroke=112240&ring=38bdf8&fire=0ea5e9&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=0ea5e9&dates=e2e8f0&border_radius=10" alt="Streak Stats" /></a></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ming0217&show_icons=true&hide_border=true&count_private=true&bg_color=0a192f&title_color=38bdf8&text_color=e2e8f0&icon_color=0ea5e9&border_radius=10" alt="GitHub Stats" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ming0217&hide_border=true&background=0a192f&stroke=112240&ring=38bdf8&fire=0ea5e9&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=0ea5e9&dates=e2e8f0&border_radius=10" alt="Streak Stats" height="140" />
+</div>
 
 ---
 
-## 🌐 Connect
+## Connect
 
 [xuminghuang.com](https://www.xuminghuang.com/) — notes on what I'm building, learning, and thinking about
 

@@ -28,7 +28,7 @@ My work focuses on production-grade LLM and agent systems — especially where r
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ming0217&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a192f&title_color=38bdf8&text_color=e2e8f0&icon_color=0ea5e9&border_radius=10" alt="GitHub Stats" height="140" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ming0217&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a192f&title_color=38bdf8&text_color=e2e8f0&icon_color=0ea5e9&border_radius=10" alt="GitHub Stats" height="140" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ming0217&hide_border=true&background=0a192f&stroke=112240&ring=38bdf8&fire=0ea5e9&currStreakNum=e2e8f0&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=0ea5e9&dates=e2e8f0&border_radius=10" alt="Streak Stats" height="140" />
 </div>
 
